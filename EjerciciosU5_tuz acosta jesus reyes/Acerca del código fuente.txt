@@ -1,0 +1,2 @@
+tiene un programa que genera y lee 2 números aleatorios y los suma para finalmente imprimirlos
+en pantalla (repitiendo el proceso las veces que se solicite en la condición).
